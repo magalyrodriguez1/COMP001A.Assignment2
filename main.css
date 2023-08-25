@@ -1,13 +1,18 @@
+
+/*changed font and added a background color to customize*/
 body{
     font-family:Arial, Helvetica, sans-serif;
     background-color:bisque;
 }
 
+/*made header a different color to be bright and eye catching. Made the text color white so it looks better compared to black. 
+centered text. */
 h1{
     background-color: orangered;
     text-align: center;
     color: white;
 
+    /*made background color the same as header to match.*/
 }
 footer{
     background-color: orangered;
